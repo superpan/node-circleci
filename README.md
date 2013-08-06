@@ -1,4 +1,4 @@
-# node-circlei
+# node-circleci
 A node library for accessing data from the [CircleCI API](https://circleci.com/docs/api).
 
 ## Install
@@ -7,7 +7,7 @@ A node library for accessing data from the [CircleCI API](https://circleci.com/d
 ## Example
 A quick example getting the latest build information from a project:
 
-```
+```javascript
 var circleci = require('circleci');
 
 circleci.lastbuild('andyshinn/node-circleci', function(body) {
