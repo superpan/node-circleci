@@ -1,0 +1,26 @@
+{
+  "name": "circleci",
+  "version": "0.0.1",
+  "description": "Retrieves data from the CircleCI API",
+  "main": "lib/circleci.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyshinn/node-circleci.git"
+  },
+  "keywords": [
+    "circleci",
+    "ci",
+    "continuous",
+    "integration",
+    "circle"
+  ],
+  "author": "Andy Shinn <andys@andyshinn.as>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/andyshinn/node-circleci/issues"
+  },
+  "dependencies": {
+    "request": "~2.25.0",
+    "lodash": "~1.3.1"
+  }
+}
