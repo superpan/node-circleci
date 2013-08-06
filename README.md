@@ -30,7 +30,6 @@ This module is very trivial at the moment. It really needs:
 * The other CircleCI GET methods
 * All the POST / DELETE methods
 * Refactoring / prototyping methods to support multiple projects at once
-
 * A binary script to utilize CircleCI on the CLI (commander / optimist?)
 
 ## Contributing
