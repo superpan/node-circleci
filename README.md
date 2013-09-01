@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/andyshinn/node-circleci.png?label=ready)](https://waffle.io/andyshinn/node-circleci)  
 # node-circleci
 A node library for accessing data from the [CircleCI API](https://circleci.com/docs/api).
 
